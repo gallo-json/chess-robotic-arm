@@ -1,7 +1,7 @@
 # Robotic Arm for Chess
 
 ## Date
-I was in 8th grade. 2019.
+August 2018. 7th grade.
 
 ## What can it do?
 User input: The chess piece to move (different sizes, different heights), the square that it is in, and the desired square.
