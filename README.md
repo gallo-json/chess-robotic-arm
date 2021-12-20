@@ -16,6 +16,6 @@ The Arduino is connected to the servo controller via TX/RX pins to transmit TTL 
 
 Required a lot of diagrams and math to calculate the angles correctly. Here is just one page of my notebook: [Gallery](docs/Gallery.md)
 
-Click here to see the robot in action: link when ready.
+Click here to see the robot in action: https://www.youtube.com/watch?v=F6KBEtsqXN8
    
 ![arm_picture](https://media.discordapp.net/attachments/660295888563994638/664265594039697426/IMG_0208.JPG?width=880&height=660)
